@@ -1,4 +1,4 @@
-// lab_02_02.cpp: определяет точку входа для консольного приложения.
+// lab_02_02.cpp: Г®ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІ ГІГ®Г·ГЄГі ГўГµГ®Г¤Г  Г¤Г«Гї ГЄГ®Г­Г±Г®Г«ГјГ­Г®ГЈГ® ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї.
 //
 
 #include "stdafx.h"
@@ -7,7 +7,7 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	double a, b, c, x, y,max_brick_1,max_brick_2;
+	double a, b, c, x, y;
 	cout << "Brick dimensions:" << endl;
 	cout << "Length(a) = "; cin >> a;
 	cout << "Width(b) = "; cin >> b;
